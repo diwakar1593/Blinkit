@@ -133,7 +133,7 @@ This ensures:
 ---
 
 ## 📂 Project Structure
-
+```
 Blinkit-Dashboard/
 │
 ├── Data/
@@ -147,7 +147,7 @@ Blinkit-Dashboard/
 │     ├── data_model.png
 │
 └── README.md
-
+```
 ---
 
 ## 👨‍💻 Author
