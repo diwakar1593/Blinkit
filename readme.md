@@ -48,7 +48,7 @@ The dashboard includes dynamic filters for better analysis:
 - Sales by Fat Content  
 - Sales by Outlet Size  
 
-![Donut Charts](images/donut_charts.png)
+![Donut Charts](images/donut_charts1.png) ![Donut Charts](images/donut_charts2.png)
 
 ---
 
